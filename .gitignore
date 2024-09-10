@@ -1,2 +1,4 @@
 client_server/.idea
-.idea
+.idea/modules.xml
+.idea/standalone.iml
+.idea/vcs.xml
