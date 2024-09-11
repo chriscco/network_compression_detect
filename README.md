@@ -1,6 +1,4 @@
 # Network Compression Detection
-## By Chris
-
 ## Introduction
 ### Client Server Model
 This project is a simple network compression detection system. 
